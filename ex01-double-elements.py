@@ -12,3 +12,8 @@ num_list = [1, 2, 3, 4]
 double = list(map(lambda x: x*2, num_list))
 
 print(double)
+
+'''
+Esse exercício foi bem tranquilo. Já tinha uma noção de como o map() funciona, mas foi a primeira vez que usei fora da aula junto com uma função lambda. Achei bem interessante como a lambda permite criar uma função simples em uma linha.
+No começo, fiquei um pouco confuso com a sintaxe, mas depois de alguns testes, consegui entender como ela funciona.
+'''
