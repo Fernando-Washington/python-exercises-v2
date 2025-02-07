@@ -32,3 +32,7 @@ result = dict(map(
 print(result)
 
 # media_ponderada = (notas * peso) / peso
+
+'''
+Esse foi o exercício mais difícil de todos. Tive que calcular a média ponderada de notas usando reduce(), map() e lambda. A maior dificuldade foi entender como estruturar a função lambda para calcular a média ponderada, mas depois que consegui, foi bem gratificante ver o código funcionando. mas confesso que nesse tive que pedir ajuda, mas foi o único. e tive que usar o zip com uma combinação de slice, o zip é basicamente o contrário do items, foi interessante.
+'''
