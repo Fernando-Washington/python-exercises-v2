@@ -15,3 +15,7 @@ word_list = ["casa", "python", "lambda"]
 result = reduce(lambda x, y: x + y, list(map(lambda x: len(x), word_list)))
 
 print(result)
+
+'''
+Esse exercício foi mais complicado, tive que combinar map(), reduce() e lambda para contar o total de letras em uma lista de palavras. A maior dificuldade foi entender aonde ia o reduce(), mas depois que peguei o jeito, foi bem útil. Achei interessante como dá para usar essas funções para resolver problemas complexos de forma elegante.
+'''
