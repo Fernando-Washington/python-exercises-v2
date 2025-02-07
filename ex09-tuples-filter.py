@@ -18,3 +18,8 @@ print(result)
 
 # por algum motivo isso não funciona com map
 #result = list(map(lambda x: sum(x) / len(x), filter(lambda x: x > 5 , tuples_list)))
+
+'''
+Esse exercício foi um dos mais difíceis. Tive que filtrar tuplas com base na média dos valores, usando filter() e lambda. A maior dificuldade foi entender como calcular a média dentro da lambda, mas depois que consegui, foi bem direto. Achei interessante como dá para usar essas funções para
+filtrar dados complexos.
+'''
