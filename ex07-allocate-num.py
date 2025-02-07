@@ -23,3 +23,9 @@ def num_organized(num_list):
     }
 
 print(num_organized([1, -2, 0, 3, -5, 0]))
+
+'''
+Esse exercício foi uma versão mais elaborada do 6 sendo um pouco mais complexo, mas consegui resolver usando map(), filter() e lambda facilmente.
+A maior dificuldade foi entender como estruturar o dicionário com as categorias, e achei melhor estruturar não colocando ele diretamente como no anterior.
+Assim ficou simples e fácil de um colega de trabalho entender de primeira o que está acontecendo no código.
+'''
