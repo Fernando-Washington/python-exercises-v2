@@ -18,3 +18,9 @@ print(sum_result)
 # x = 1 + y = 2 = 3
 # x = 3 + y = 3 = 6
 # x = 6 + y = 4 = 10
+
+'''
+Esse exercício foi um pouco mais complexo do que os demais porém foi só ver a sintaxe na documentação que as coisas fluiram. 
+Entendi que ela aplica a função lambda em pares de elementos até reduzir a lista a um único valor.
+Depois que peguei o jeito.
+'''
