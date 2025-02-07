@@ -16,3 +16,7 @@ sorted_num = sorted(num_squared)
 
 print(sorted_num)
 
+'''
+Nesse exercício, usei map() para elevar os números ao quadrado e depois sorted() para ordenar a lista.
+Foi bem tranquilo, mas precisei lembrar que o map() retorna um iterador, então precisei convertê-lo para uma lista antes de usar o sorted(). Achei interessante como dá para combinar essas funções para fazer operações complexas em poucas linhas de código, acaba sendo bem mais prático do que fazer uma única função do zero para isso.
+'''
