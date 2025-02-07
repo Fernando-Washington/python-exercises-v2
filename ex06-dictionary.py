@@ -17,3 +17,8 @@ result = {
 }
 
 print(result)
+
+'''
+Aqui, usei filter() e lambda para separar os números pares e ímpares em um dicionário.
+Foi um exercício tranquilo, foi só desenvolver a lógica e ver como funciona a relação com dicionário e se dava pra aplicá-la diretmente a estrutura do dicionário.
+'''
